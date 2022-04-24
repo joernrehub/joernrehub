@@ -1,4 +1,4 @@
-currently working with ifcopenshell, pandas, fastapi and pytest
+currently working with static typing in python 3.10, ifcopenshell, pandas, fastapi, requests, json and pytest
 
 <!---
 - 👋 Hi, I’m @joernrehub
