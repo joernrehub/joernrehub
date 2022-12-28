@@ -1,12 +1,15 @@
 currently working with 
+- json
 - pytest
-- static typing in python 3.10
-- ifcopenshell
-- pythonOCC
 - pandas 
 - fastapi 
+- pydantic
+- sqlmodel
 - requests
-- json
+- ifcopenshell
+- beautifulsoup4
+- postgresql database
+- static typing in python 3.09 and 3.10
 
 <!---
 - 👋 Hi, I’m @joernrehub
