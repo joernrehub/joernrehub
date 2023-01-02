@@ -1,11 +1,11 @@
 currently working with 
 - json
 - pytest
+- fastapi
 - pandas 
-- fastapi 
 - pydantic
-- sqlmodel
 - requests
+- sqlmodel
 - ifcopenshell
 - beautifulsoup4
 - postgresql database
