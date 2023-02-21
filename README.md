@@ -1,15 +1,23 @@
-currently working with 
-- json
-- pytest
-- fastapi
-- pandas 
-- pydantic
-- requests
-- sqlmodel
-- ifcopenshell
-- beautifulsoup4
-- postgresql database
-- static typing in python 3.09 and 3.10
+    currently working with 
+    
+    - static typing in python 3.09 and 3.10
+    
+    - fastapi
+    - sqlmodel
+    - pydantic
+
+    - postgresql database
+
+    - pytest
+
+    - pandas 
+    
+    - ifcopenshell
+    
+    - beautifulsoup4
+
+
+
 
 <!---
 - 👋 Hi, I’m @joernrehub
