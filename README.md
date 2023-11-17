@@ -1,6 +1,6 @@
     currently working with 
     
-    - static typing in python 3.09, 3.10 and 3.11
+    - static typing in python 3.12
     
     - fastapi
     - sqlmodel
